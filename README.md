@@ -10,7 +10,7 @@ Specifically, this project focuses on the relationship between the following ind
 -	Scientific and technical journal articles
 -	Unemployment, total (% of total labor force) (modeled ILO estimate)
 
-Data Collection
+## Data Collection
 The data for this project was collected from the World Bank Data Hub platform which provides access to a wide range of datasets related to global development. The dataset used in this project contains information about 
 -	Access to electricity (% of population)
 -	Agriculture, forestry, and fishing, value added (% of GDP)
@@ -20,17 +20,17 @@ The data for this project was collected from the World Bank Data Hub platform wh
 -	Scientific and technical journal articles
 -	Unemployment, total (% of total labor force) (modeled ILO estimate)
 for various countries from 1960 to 2023.
-Data Wrangling and Exploration
+## Data Wrangling and Exploration
 To wrangle and explore the data, the Python libraries Pandas and Seaborn were used. Various visualizations were created using Seaborn to explore the data and identify any trends or patterns.
 Analysis
 To analyze the relationship between the above-mentioned indicators over time, data visualization was created using matplotlib and seaborn. This allows users to explore the relationship between these variables for three countries, namely Togo, Sub Sahara, and North America over time periods.
-Libraries Used
+## Libraries Used
 The following Python libraries were used in this project:
 •	Pandas: for dataset handling
 •	Seaborn: for visualization
 •	Matplotlib.pyplot: for visualization
 •	Numpy: for calculation
-Conclusion
+## Conclusion
 This project provides insights into the relationship between the following indicators over time in Togo, Sub Sahara and North America:
 -	Access to electricity (% of population)
 -	Agriculture, forestry, and fishing, value added (% of GDP)
