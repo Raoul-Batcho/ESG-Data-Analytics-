@@ -41,4 +41,4 @@ This project provides insights into the relationship between the following indic
 -	Unemployment, total (% of total labor force) (modeled ILO estimate)
 The data visualizations created allows for a deeper understanding of these relationships and highlight the importance of these variables comparatively in three countries which are Togo, Sub Sahara and North America.
 
-License: The dataset in licensed under Creative Commons Attribution 4.0
+## License: The ESG dataset in licensed under Creative Commons Attribution 4.0
